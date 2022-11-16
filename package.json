@@ -1,5 +1,5 @@
 {
-  "name": "small-shop-app",
+  "name": "react-native-animation",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "expo": "~47.0.6",
     "expo-status-bar": "~1.4.2",
+    "expo-updates": "~0.15.5",
     "lottie-react-native": "^5.1.4",
     "prop-types": "^15.8.1",
     "react": "18.1.0",
